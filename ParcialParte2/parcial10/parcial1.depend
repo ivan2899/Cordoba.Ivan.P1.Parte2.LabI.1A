@@ -1,0 +1,284 @@
+# depslib dependency file v1.0
+1653300070 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"notebooks.h"
+	"fecha.h"
+	"marcas.h"
+	"tipos.h"
+	"servicios.h"
+	"trabajos.h"
+	"general.h"
+
+1653295844 d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\notebooks.h
+	"tipos.h"
+	"marcas.h"
+
+1653295844 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"notebooks.h"
+	"tipos.h"
+	"marcas.h"
+	"general.h"
+
+1653292571 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+
+1653288167 d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\fecha.h
+
+1653296234 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\general.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"general.h"
+
+1653288167 d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\general.h
+
+1653289180 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\marcas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"marcas.h"
+
+1653288835 d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\marcas.h
+
+1653293385 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicios.h"
+
+1653293376 d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\servicios.h
+
+1653289180 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipos.h"
+
+1653288835 d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\tipos.h
+
+1653296683 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajos.h"
+	"servicios.h"
+
+1653296233 d:\importante\programacion\material en proceso\programacion__codeblocks\parcial\parcial\parcial1\trabajos.h
+	"fecha.h"
+	"tipos.h"
+	"marcas.h"
+	"servicios.h"
+
+1653292571 source:c:\users\ivanc\desktop\parcialparte2\parcial1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+
+1653288167 c:\users\ivanc\desktop\parcialparte2\parcial1\fecha.h
+
+1653289180 source:c:\users\ivanc\desktop\parcialparte2\parcial1\marcas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"marcas.h"
+
+1653288835 c:\users\ivanc\desktop\parcialparte2\parcial1\marcas.h
+
+1653295844 source:c:\users\ivanc\desktop\parcialparte2\parcial1\notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"notebooks.h"
+	"tipos.h"
+	"marcas.h"
+	"general.h"
+
+1653295844 c:\users\ivanc\desktop\parcialparte2\parcial1\notebooks.h
+	"tipos.h"
+	"marcas.h"
+
+1653288835 c:\users\ivanc\desktop\parcialparte2\parcial1\tipos.h
+
+1653305070 c:\users\ivanc\desktop\parcialparte2\parcial1\general.h
+	"tipos.h"
+	"marcas.h"
+	"notebooks.h"
+	"trabajos.h"
+
+1653293385 source:c:\users\ivanc\desktop\parcialparte2\parcial1\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicios.h"
+
+1653293376 c:\users\ivanc\desktop\parcialparte2\parcial1\servicios.h
+
+1653289180 source:c:\users\ivanc\desktop\parcialparte2\parcial1\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipos.h"
+
+1653296683 source:c:\users\ivanc\desktop\parcialparte2\parcial1\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajos.h"
+	"servicios.h"
+
+1653296233 c:\users\ivanc\desktop\parcialparte2\parcial1\trabajos.h
+	"fecha.h"
+	"tipos.h"
+	"marcas.h"
+	"servicios.h"
+
+1653305174 source:c:\users\ivanc\desktop\parcialparte2\parcial1\general.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"general.h"
+	"tipos.h"
+
+1653305059 source:c:\users\ivanc\desktop\parcialparte2\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"notebooks.h"
+	"fecha.h"
+	"marcas.h"
+	"tipos.h"
+	"servicios.h"
+	"trabajos.h"
+	"general.h"
+
+1653292571 source:c:\users\ivanc\desktop\parcialparte2\parcial10\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+
+1653288167 c:\users\ivanc\desktop\parcialparte2\parcial10\fecha.h
+
+1653289180 source:c:\users\ivanc\desktop\parcialparte2\parcial10\marcas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"marcas.h"
+
+1653288835 c:\users\ivanc\desktop\parcialparte2\parcial10\marcas.h
+
+1653293385 source:c:\users\ivanc\desktop\parcialparte2\parcial10\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicios.h"
+
+1653312433 c:\users\ivanc\desktop\parcialparte2\parcial10\servicios.h
+
+1653289180 source:c:\users\ivanc\desktop\parcialparte2\parcial10\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipos.h"
+
+1653288835 c:\users\ivanc\desktop\parcialparte2\parcial10\tipos.h
+
+1653315251 source:c:\users\ivanc\desktop\parcialparte2\parcial10\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajos.h"
+	"servicios.h"
+
+1653315267 c:\users\ivanc\desktop\parcialparte2\parcial10\trabajos.h
+	"fecha.h"
+	"tipos.h"
+	"marcas.h"
+	"servicios.h"
+
+1653317468 source:c:\users\ivanc\desktop\parcialparte2\parcial10\general.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"general.h"
+	"tipos.h"
+
+1653317415 c:\users\ivanc\desktop\parcialparte2\parcial10\general.h
+	"tipos.h"
+	"marcas.h"
+	"notebooks.h"
+	"trabajos.h"
+
+1653317923 c:\users\ivanc\desktop\parcialparte2\parcial10\notebooks.h
+	"tipos.h"
+	"marcas.h"
+	"cliente.h"
+
+1653317923 source:c:\users\ivanc\desktop\parcialparte2\parcial10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"notebooks.h"
+	"fecha.h"
+	"marcas.h"
+	"tipos.h"
+	"servicios.h"
+	"trabajos.h"
+	"general.h"
+	"cliente.h"
+
+1653318273 source:c:\users\ivanc\desktop\parcialparte2\parcial10\notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"notebooks.h"
+	"tipos.h"
+	"marcas.h"
+	"general.h"
+	"cliente.h"
+
+1653316085 source:c:\users\ivanc\desktop\parcialparte2\parcial10\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"cliente.h"
+	"trabajos.h"
+	"servicios.h"
+
+1653317239 c:\users\ivanc\desktop\parcialparte2\parcial10\cliente.h
+	"servicios.h"
+

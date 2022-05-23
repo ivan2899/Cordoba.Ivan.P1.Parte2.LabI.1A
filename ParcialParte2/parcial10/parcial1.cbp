@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="parcial1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/parcial1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/parcial1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="cliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cliente.h" />
+		<Unit filename="fecha.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fecha.h" />
+		<Unit filename="general.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="general.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="marcas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="marcas.h" />
+		<Unit filename="notebooks.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="notebooks.h" />
+		<Unit filename="servicios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="servicios.h" />
+		<Unit filename="tipos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tipos.h" />
+		<Unit filename="trabajos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="trabajos.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
